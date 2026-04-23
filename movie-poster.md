@@ -131,15 +131,15 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 ## Step 5: Reflection
 *(Commit message: "Completed reflection")*
 
-**How did your vision evolve?**  
+**How did your vision evolve?** I had different ideas about the sizes that I wanted things to be. 
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
-
+The sizes changed but the main elements stayed the same
 
 **What decision are you most proud of that the AI didn't make for you?**  
-
+To have a ship in the background
 
 **What would you do differently next time?**  
-
+I would start by saying the type of animation that I want
 
 ---
 
