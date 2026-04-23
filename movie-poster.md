@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  two cartoon baby penguins on an ice cap, one on the rightwhich is singing (show blue music notes coming from her mouth), and one on the left which is in the air dancing, one foot higher than the other (yellow feet). The sky should be blue with no clouds, and on the water behind the icecap, there should be an ominous black ship in the distance.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The penguins are doing the right things
+- **What didn't work:**  It is too cartoony and not serious enough, and the ship in the background is too small.
+- **What I'll change for next attempt:**  Use the animation style from the movie Happy Feet, make the ice cap extend to the front of the screen, and turn the ship in the background horizontally. Make the ship bigger with more detail. Make the sky lighter with more of a gradient of blue.
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  Use the animation style from the movie Happy Feet, make the ice cap extend to the front of the screen, and turn the ship in the background horizontally. Make the ship bigger with more detail. Make the sky lighter with more of a gradient of blue.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The penguins look better and the ship is also better. I like the color of the sky.
+- **What didn't work:**  The penguins need to look younger and the main character needs to be more highlighted. The ship also needs to look more menacing.
+- **What I'll change for next attempt:**  Make the left penguin bigger and more forward. Make the right penguin more off to the side and smaller, a little further back. Make the ship in the background bigger and more menacing. Also make the penguins look younger and cuter.
 
 ---
 
