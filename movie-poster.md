@@ -89,11 +89,11 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  Make more dramatic changes based on this prompt: Make the left penguin bigger and more forward. Make the right penguin more off to the side and smaller, a little further back. Make the ship in the background bigger and more menacing. Also make the penguins look younger and cuter.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The penguins look better and it highlights the main character now.
+- **What didn't work:**  The ship in the background is too big
+- **What I'll change for next attempt:**  Make the ship a little smaller and make it shrouded by fog a little bit. Also put some random icebergs in the background.
 
 **Attempt 4:**  
 - **My prompt:**  
@@ -119,8 +119,8 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 - Remove unwanted elements  
 
 **Your Modifications:**  
-1.  
-2.  
+1. Make the ship a little smaller and make it shrouded by fog a little bit. Also put some random icebergs in the background. 
+2.  Make the fog white and slightly less of it , and put blue music notes coming out of the smaller penguin's mouth (blue music notes). Also add the words "Happy Feet" in a playful font, same color as the music notes.
 3. (optional)  
 
 **Save your final poster as:** `final-poster.jpg` or `final-poster.png`  
